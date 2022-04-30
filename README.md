@@ -26,6 +26,11 @@ viii) concave points
 ix) symmetry
 x) fractal dimension 
 
-#Model:
+# Model:
 
 We used pyspark, an interface for Apache Spark to use Python API. We used linear regression to pedict whether the cancer is malignant or not. The model utilizes a probabilistic model which is used to predict the label class. 
+
+# Accuracy:
+
+The model gave an accuracy of 100% on training data and 38% on test data.
+
